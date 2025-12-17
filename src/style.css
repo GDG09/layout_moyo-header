@@ -1,13 +1,5 @@
 html {
-  box-sizing: border-box;
-
   --moyo-blue: #00acdc;
-}
-
-*,
-*::before,
-*::after {
-  box-sizing: inherit;
 }
 
 body {
