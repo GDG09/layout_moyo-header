@@ -34,7 +34,7 @@ body {
   margin-right: auto;
 }
 
-.logo img {
+.logo .img__logo {
   display: block;
   height: 40px;
   width: auto;
